@@ -1,0 +1,41 @@
+.color{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin : 5px;
+}
+.green{
+  background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+div {
+    	border: 2px solid black;
+    	padding: 10px;
+    	margin: 10px;
+    	width: 500px;
+    	height: 700px;
+    	float:left;
+    }
+
+    #instructions li {
+    	line-height:200%;
+    }
+
+    .vert {
+    	color:green;
+    }
+
+    .rouge {
+    	color:red;
+    }
+    .gras {
+    	font-weight: bold;
+    }
+    .italic {
+    	font-style: italic;
+    }
