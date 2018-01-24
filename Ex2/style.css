@@ -39,3 +39,10 @@ div {
     .italic {
     	font-style: italic;
     }
+
+    .my-custom-theme {
+        border-radius: 5px;
+        border: 2px solid #000;
+        background: #4c4c4c;
+        color: #fff;
+      }
