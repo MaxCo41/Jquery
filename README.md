@@ -1,3 +1,3 @@
 # Jquery
 
-Exercice sur Jquery
+Exercice sur les bases Jquery.
